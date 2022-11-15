@@ -7100,7 +7100,7 @@ GameObject:
   - component: {fileID: 1408890918}
   - component: {fileID: 1408890917}
   - component: {fileID: 1408890916}
-  m_Layer: 0
+  m_Layer: 12
   m_Name: suki-idle-color 1_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
