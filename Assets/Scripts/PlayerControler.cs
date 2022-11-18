@@ -168,10 +168,8 @@ public class PlayerControler : MonoBehaviour
     {
         anim.SetBool("crouch", true);
         anim.SetBool("falling", false);
-        disparando = false;
     } else {
         anim.SetBool("crouch", false);
-        disparando = true;
        //anim.SetBool("falling", false);
     }
 
