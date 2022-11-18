@@ -5595,11 +5595,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   target: {fileID: 2085535607}
-  speed: 200
+  speed: 150
   nextWaypointDistance: 3
   PuntosVidaE: 0
   VidaMaximaE: 1
-  shootingRange: 6
+  shootingRange: 4
   bullet: {fileID: 7703475131797496671}
   bulletParent: {fileID: 740574672}
   explosion: {fileID: 2809756027655278127, guid: 8d2d3121f60507543bf5b93bc12a3913, type: 3}

@@ -3344,7 +3344,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 519420028}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 87.61671, y: 0.22933078, z: -9.996096}
+  m_LocalPosition: {x: 87.61792, y: 0.22933078, z: -9.996096}
   m_LocalScale: {x: 0.32862982, y: 0.07239325, z: 0.32862982}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -7101,7 +7101,7 @@ GameObject:
   - component: {fileID: 1408890917}
   - component: {fileID: 1408890916}
   m_Layer: 12
-  m_Name: suki-idle-color 1_0
+  m_Name: Suki
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7165,8 +7165,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 1004435373
+  m_SortingLayer: -2
   m_SortingOrder: 0
   m_Sprite: {fileID: 1478937986, guid: 7b226053d49981d488ed137b62aa8dae, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
