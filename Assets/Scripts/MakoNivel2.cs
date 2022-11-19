@@ -85,7 +85,6 @@ public class MakoNivel2 : MonoBehaviour
              NuevoSonido(SaltoSonido, 1f);
         }
         
-             
             anim.SetBool("saltar", true);
              anim.SetBool("caer", false);
              anim.SetBool("agachar", false);
@@ -102,6 +101,10 @@ public class MakoNivel2 : MonoBehaviour
             rb2D.velocity = new Vector2 (rb2D.velocity.x, velSaltar);
             NuevoSonido(SaltoSonido, 1f);
         }
+
+        
+ 
+
        
         
         anim.SetBool("correr", false);

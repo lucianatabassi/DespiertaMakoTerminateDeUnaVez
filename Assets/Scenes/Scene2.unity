@@ -9971,6 +9971,10 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 22
       objectReference: {fileID: 0}
+    - target: {fileID: 5828108335028195585, guid: a11025428e66a074ab4c4dc306d65dd3, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5828108335059503784, guid: a11025428e66a074ab4c4dc306d65dd3, type: 3}
       propertyPath: m_Name
       value: PlataformaMovil (2)
