@@ -51,7 +51,7 @@ TagManager:
   - BalaEVolador
   - EnemigoVolador
   - Colliders
-  - 
+  - Puerta
   - 
   m_SortingLayers:
   - name: suelo
